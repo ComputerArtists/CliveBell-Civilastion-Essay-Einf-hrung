@@ -1,5 +1,3 @@
-# Bitte nicht sofort Runter Laden noch im Aufbau
-
 # Clive Bell – Civilization (1928) – Visualisierungen
 
 Eine Sammlung interaktiver Processing-Skripte, die Clive Bells Essay *Civilization* (Pelican Books, 1938-Ausgabe) visuell interpretieren.  
